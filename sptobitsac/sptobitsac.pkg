@@ -1,4 +1,8 @@
-D 'wqsreg': Weighted Quantile Sum (WQS) regression Use wqsreg With STATA 19
+D 'sptobitsac': Tobit MLE Spatial AutoCorrelation (SAC) Cross Sections Regression Use sptobitsac With STATA 19
 D
-F wqsreg.ado
-F wqsreg.sthlp
+F sptobitsac.ado
+F sptobitsac.dlg
+F sptobitsac.sthlp
+F sptobitsac1.ado
+F sptobitsac2.ado
+F sptobitsac3.ado
