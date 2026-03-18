@@ -1,6 +1,8 @@
 # sptobitsac
 Tobit MLE Spatial AutoCorrelation (SAC) Cross Sections Regression Use sptobitsac With STATA 19
 
+https://www.youtube.com/watch?v=m6FT-sT7HOo
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
